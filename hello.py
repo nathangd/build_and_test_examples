@@ -1,2 +1,3 @@
 print("Hello world from Travis CI")
-print("KILL ME NOW!!!")
+for i int range (0,10):
+	print("I AM A FISH!")
